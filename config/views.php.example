@@ -4,4 +4,4 @@ namespace config;
 class views{
     public int $reg_x_pagina = 15; //Registros a mostrar en listas
     public string $titulo_sistema = 'Titulo'; //Titulo de sistema
-}
+} 
